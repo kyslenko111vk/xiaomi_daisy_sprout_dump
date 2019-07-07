@@ -1,0 +1,10 @@
+ota-property-files=payload_metadata.bin:8424:100367,payload.bin:8424:1076348461,payload_properties.txt:1076356943:156,care_map.txt:770:201,compatibility.zip:1024:7353,metadata:69:653                  
+ota-required-cache=0
+ota-streaming-property-files=payload.bin:8424:1076348461,payload_properties.txt:1076356943:156,care_map.txt:770:201,compatibility.zip:1024:7353,metadata:69:653                    
+ota-type=AB
+post-build=xiaomi/daisy/daisy_sprout:9/PKQ1.180917.001/V10.0.10.0.PDLMIXM:user/release-keys
+post-build-incremental=V10.0.10.0.PDLMIXM
+post-sdk-level=28
+post-security-patch-level=2019-06-01
+post-timestamp=1560403560
+pre-device=daisy_sprout
